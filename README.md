@@ -30,7 +30,13 @@
 
   <h4>❗프로젝트 사진❗</h4>
   <p><strong>1. 첫 화면</strong></p>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-5Team/blob/dev-nyeonn/img/%EC%B2%AB%ED%99%94%EB%A9%B4.png?raw=true" alt="첫 화면" width="600">
+  <p><strong>2. 사용자 입력</strong></p>
 <img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-5Team/blob/dev-nyeonn/img/%EC%82%AC%EC%9A%A9%EC%9E%90%20%EC%9E%85%EB%A0%A5.png?raw=true" alt="첫 화면" width="600">
+  <p><strong>3. 광고 문구 생성</strong></p>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-5Team/blob/dev-nyeonn/img/%EC%83%9D%EC%84%B1.png?raw=true" alt="첫 화면" width="600">
+  <p><strong>4. 저장된 문구 불러오기</strong></p>
+<img src="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN03-4th-5Team/blob/dev-nyeonn/img/%EC%A0%80%EC%9E%A5%EB%90%9C%20%EB%AC%B8%EA%B5%AC%20%EB%B6%88%EB%9F%AC%EC%98%A4%EA%B8%B0.png?raw=true" alt="첫 화면" width="600">
 
 </details>
 
