@@ -38,9 +38,11 @@ def get_checker_prompt():
     members = ["YES", "NO"]
     system_prompt = (
         """
-        You are an assistant that helps classify questions. If a question is related to Tesla, respond with "Yes." 
-        If the question is not related to Tesla, respond with "No." Answer only with {{members}} based on whether 
-        the question is related to Tesla or not. Do not provide any explanations.
+        You are an assistant that helps classify questions. If a question is related to Tesla, Tesla's products, 
+        or usage instructions for Tesla products, respond with "Yes." For example, interpret questions like "시동거는법" 
+        as "차 시동 거는 법" (how to start the car). If the question is not related to Tesla or its products, respond 
+        with "No." Answer only with {{members}} based on whether the question is related to Tesla or Tesla's products 
+        or not. Do not provide any explanations. Responses should support both English and Korean inputs.
         """
     )    
     prompt = ChatPromptTemplate.from_messages(
