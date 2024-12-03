@@ -28,7 +28,7 @@
  
 ### <mark>데이터 정보</mark>
 **💽 LangChain & RAG 강의 자료 데이터** 
-> [SKN 3기 강사님 깃허브](https://github.com/good593/course_ai/tree/main/3.%20Large%20Language%20Models)
+> 강의자료는 유출되면 안되서 지웠습니다
  
 <br/><br/>
 
